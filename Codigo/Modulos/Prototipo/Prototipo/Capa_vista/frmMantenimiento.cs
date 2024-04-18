@@ -15,7 +15,7 @@ namespace Vista_PrototipoMenu
         public frmMantenimiento()
         {
             InitializeComponent();
-            this.navegador1.config("tbl_cliente", this);
+            this.navegador1.config("jugador", this);
         }
     }
 }
